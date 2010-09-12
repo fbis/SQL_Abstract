@@ -1,1 +1,1 @@
-PerlのPath::Classの移植
+PerlのSQL::Abstractの移植
